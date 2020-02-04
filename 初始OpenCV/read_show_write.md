@@ -1,5 +1,5 @@
 ## 图片的读 显 存
-`cv.imread()`, `cv.imshow()`, `cv.write()` 三个方法分别对应图片的读，显示，另存为。
+`cv.imread()`, `cv.imshow()`, `cv.imwrite()` 三个方法分别对应图片的读，显示，另存为。
 - 读
 ```py
 import numpy as np
